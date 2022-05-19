@@ -18,7 +18,7 @@ project "glfw"
 
 		"src/platform.c",
 		"src/vulkan.c",
-		"src/window.c",
+		"src/window.c"
 	}
 	
 	configuration { "linux" }
