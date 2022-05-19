@@ -1,4 +1,5 @@
 project "glfw"
+	location ""
 	kind "StaticLib"
 	
 	files
